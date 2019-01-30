@@ -3,8 +3,7 @@ A Pyramid Scheme.
 Romeo, a size variable $s0.
 Juliet, a counting variable to check the size $t0.
 Hamlet, a temporary variable from Denmark, $t1.
-The Ghost, a limiting factor (and by a remarkable coincidence also
-        Hamlet's father) $t2.
+The Ghost, $t2.
 Mercutio, an unfortunately temporary variable for printing.
 
                     Act I: Beginnings.
@@ -42,7 +41,7 @@ Juliet:
  You are the difference between Romeo and myself.
 
 Juliet:
- You are the sum of yourself and a leech. Open your heart.
+ You are the sum of yourself and a leech.
 
 [Exit Juliet]
 
@@ -73,7 +72,7 @@ Juliet:
 
 [Enter the Ghost]
 Juliet:
- You are as good as me. You are the sum of double yourself and a pony.
+ You are as good as me. You are the sum of yourself and yourself. You are the sum of yourself and a flower.
 
 [Exit Juliet]
      	    	   Scene V: sloop.
